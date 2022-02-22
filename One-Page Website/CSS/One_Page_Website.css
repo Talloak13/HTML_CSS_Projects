@@ -1,0 +1,11 @@
+p {
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+form {
+    width: 300px;
+    margin: 20px;
+    border: groove;
+    border-radius: 10px;
+}
